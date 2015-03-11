@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Comms>
+  <Ports>COM1</Ports>
+  <Ports>COM2</Ports>
+  <Ports>COM3</Ports>
+  <Ports>COM4</Ports>
+  <Ports>COM5</Ports>
+  <Ports>COM6</Ports>
+  <Ports>COM7</Ports>
+  <Ports>COM8</Ports>
+  <Ports>COM9</Ports>
+	
+	<Baud>9600</Baud>
+	<Baud>2400</Baud>
+	<Baud>19200</Baud>
+	<Baud>38400</Baud>
+	<Baud>57600</Baud>
+	<Baud>115200</Baud>
+	<Baud>230400</Baud>
+	<Baud>460800</Baud>
+	<Baud>921600</Baud>
+
+	<Parity>None</Parity>
+	<Parity>Odd</Parity>
+	<Parity>Even</Parity>
+	<Parity>Mark</Parity>
+	<Parity>Space</Parity>
+	
+	<StopBits>One</StopBits>
+	<StopBits>Two</StopBits>
+	<StopBits>OnePointFive</StopBits>
+	<StopBits>None</StopBits>
+	
+	<Handshake>None</Handshake>
+	<Handshake>XOnXOff</Handshake>
+	<Handshake>RequestToSend</Handshake>
+	<Handshake>RequestToSendXOnXOff</Handshake>
+</Comms>
