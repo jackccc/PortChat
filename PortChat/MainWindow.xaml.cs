@@ -96,10 +96,5 @@ namespace PortChat
             }
         }
 
-        public void About_Click(object sender, RoutedEventArgs e)
-        {
-            var aboutWindow = new AboutWindow();
-            aboutWindow.Show();
-        }
     }
 }
